@@ -1,0 +1,59 @@
+/*green: '#1DB954',
+offGreen: '#1ed760',
+blue: '#509bf5',
+navBlack: '#040306',
+black: '#181818',
+white: '#FFFFFF',
+lightestGrey: '#b3b3b3',
+lightGrey: '#9B9B9B',
+grey: '#404040',
+darkGrey: '#282828',
+*/
+
+{   
+    "workbench.colorCustomizations": {
+        //Activity Bar
+        "activityBar.background": "#040306",
+        "activityBar.foreground": "#1DB954",
+        "activityBar.dropBackground": "#1ed760",
+        "activityBarBadge.background": "#509bf5",
+        "activityBarBadge.foreground": "#FFFFFF",
+        "activityBar.inactiveForeground": "#FFFFFF",
+
+        //tabs
+        "tab.activeBackground": "#1DB954",
+        "tab.hoverBackground": "#1ed760",
+        "tab.activeForeground": "#FFF",
+        "tab.inactiveForeground": "#FFF",
+        
+        
+
+        //editor
+        "editor.background": "#181818",
+        "editor.foreground": "#FFF",
+        "editorLineNumber.foreground": "#FFF",
+        "editorLineNumber.activeForeground": "#1DB954",
+        "editorCursor.foreground": "#FFF",
+        "editor.selectionBackground": "#509bf5",
+        "editor.selectionForeground": "#FFF",
+        "editorIndentGuide.activeBackground": "#1DB954",
+
+        //Scrollbar
+        "scrollbarSlider.background": "#b3b3b3",
+        "scrollbarSlider.activeBackground": "#1DB954",
+        "scrollbar.shadow": "#1DB954",
+        "scrollbarSlider.hoverBackground": "#1DB954",
+
+        //Buttons
+        "button.background": "#1DB954",
+        "button.foreground": "#FFF",
+        "button.hoverBackground": "#1ed760",
+        
+        //Sidebar
+        "sideBar.background": "#282828",
+        "sideBar.foreground": "#FFF",
+        "sideBarTitle.foreground": "#FFF",
+        "sideBarSectionHeader.foreground": "#FFF"
+
+    }
+}
